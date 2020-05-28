@@ -1,0 +1,30 @@
+      /* slideshow */
+  div#carousel > figure > img {
+    display: none;
+    margin: 0px auto;
+    }
+  
+  div#carousel > figure.visible > img {
+    display: block; 
+    position: relative;
+    overflow: hidden; 
+  }
+  div#carousel > figure > figcaption {
+    display: none;
+  }
+  
+  div#carousel > figure.visible {
+     display: block; 
+     text-align: center; 
+     font-weight: bold;
+     font-size: 1.5em;
+   }
+  .slideshow {
+    width: 100%;
+    height: 600px;
+   }
+      
+  
+  
+  
+  

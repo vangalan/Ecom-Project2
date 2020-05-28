@@ -1,0 +1,74 @@
+[
+    {
+        "img": "/img/jerky-1.jpg",
+        "title": "Sesame Beef Jerky",
+        "price": 9.99,
+        "description": "Experience the sweetness of our jerky infused with sesame to give you that original taste that you've yearned for."
+    },
+    {
+        "img": "/img/jerky-2.jpg",
+        "title": "Traditional Style Real Wood Smoked.",
+        "price": 10.41,
+        "description": "Traditionaly smoked, this flavor has been smoked to perfectness with over 72 hours. You'll come back for more."
+    },
+    {
+        "img": "/img/jerky-3.jpg",
+        "title": "Al's Special",
+        "price": 6.89,
+        "description": "The Al's special has one of the most unique flavors with a perfect mix of herbs and spices."
+    },
+    {
+        "img": "/img/jerky-4.jpg",
+        "title": "Sweet and Hot, (2) 9 oz. Bags",
+        "price": 7.99,
+        "description": "If you prefer sweet and some spice in your life tearing jerky has you covered with the perfect blend of sweet seasonings and use of spices."
+    },
+    {
+        "img": "/img/beefjerky.jpg",
+        "title": "Old Trapper Beef Jerky 10oz, Naturally Smoked, Old Fashioned Original",
+        "price": 16.75,
+        "description": "The Old Trapper legend began with our original Old Fashioned Beef Jerky. We season lean cuts of real steak, add brown sugar for just the right hint of sweetness, and smoke them to perfection using real wood in our smokehouses. The result is tender, never tough jerky that will be the best you’ve ever tasted. Available in hot and spicy, peppered, teriyaki, and old fashioned."
+    },
+    {
+        "img": "/img/pepperedjerky.jpg",
+        "title": "Old Trapper Peppered Beef Jerky | Traditional Style Real Wood Smoked Made from 100% Top Round Steak",
+        "price": 12.19,
+        "description": "The Old Trapper legend began with our original Old Fashioned Beef Jerky. We season lean cuts of real steak, add brown sugar for just the right hint of sweetness, and smoke them to perfection using real wood in our smokehouses. The result is tender, never tough jerky that will be the best you’ve ever tasted. Available in hot and spicy, peppered, teriyaki, and old fashioned."
+    },
+    {
+        "img": "/img/jack-links.jpg",
+        "title": "Jack Link’s Beef Jerky 20 Count Multipack, Teriyaki, 20, .625 oz. Bags",
+        "price": 16.29,
+        "description": "Jack Link’s Teriyaki Beef Jerky is a delicious combination of sweet and savory. Each strip is made with 100% premium beef that is marinated with our special blend of soy, garlic, ginger and brown sugar. Then, it’s slow cooked over hardwood smoke for the perfect smoky flavor. The result? It’s slightly sweet and mild flavor is a taste the entire family will love!"
+    },
+    {
+        "img": "/img/sweet-and-hot.jpg",
+        "title": "Jack Link’s Beef Jerky, Sweet and Hot, (2) 9 oz. Bags",
+        "price": 19.69,
+        "description": "Jack Link’s Sweet & Hot Beef Jerky is expertly seasoned with the perfect blend of sweet seasonings and zesty hot spices. Then, it’s slow roasted over hardwood smoke for the perfect trifecta: meaty, sweet and savory perfection. Packed with 10g of protein and only 80 calories per serving, our Sweet & Hot Beef Jerky is a flavorful, must-have snack to help keep you satisfied and energized all day."
+    },
+    {
+        "img": "/img/jacklinks-original.jpg",
+        "title": "Jack Link’s Beef Jerky, Original, (2) 9 oz. Bags",
+        "price": 19.69,
+        "description": "Jack Link’s Beef Jerky is made from lean cuts of 100% premium beef, then seasoned with simple ingredients like salt and water. It’s 96% fat free with no added MSG, and always hardwood smoked and slow cooked, resulting in a tender, delicious beef snack. Some call our signature Original flavor bold, some call is savory, and everyone calls it delicious."
+    },
+    {
+        "img": "/img/slim-jim.jpg",
+        "title": "Slim Jim Smoked Snack Stick Pantry Pack, Original, 0.28 oz Stick 46Count",
+        "price": 8.62,
+        "description": "Slim Jim is America's #1 brand of meat stick. Slim Jim snack sticks are made with beef, pork, and chicken, because beefy appetites require an even beefier snack. Each pantry pack contains 46 snack sticks and stores easily to grab a snack and go. Get intense, smoky flavor with Slim Jim Original Flavored Smoked Snack Sticks."
+    },
+    {
+        "img": "/img/jacklinks-wildheat.jpg",
+        "title": "Jack Link’s Beef Jerky, Wild Heat, 9 oz. Bag, 2 Count",
+        "price": 19.69,
+        "description": "Jack Link’s Wild Heat Beef Jerky takes spicy meat snacks to a whole new level. It packs more than just heat. The complex flavor combination of spices will take your taste buds to a new depth of savory and spicy – leaving you with a serious kick that hurts so good you’ll be coming back for more! MADE WITH 100% Beef: Packed with 10g of protein per serving, it’s 96% fat free and has no added MSG, nitrates or nitrites."
+    },
+    {
+        "img": "/img/tillamook.jpg",
+        "title": "Tillamook Country Smoker Zero Sugar Original",
+        "price": 8.98,
+        "description": "Tillamook Zero Sugar beef jerky provides all the great taste of our Real, hardwood smoked jerky, but without the sugar or carbs. It contains no artificial ingredients and is packed with 14g of protein perserving. Contains one 6.5-ounce bag."
+    }
+]
