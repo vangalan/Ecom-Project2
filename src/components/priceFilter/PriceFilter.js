@@ -33,10 +33,10 @@ export default class PriceFilter extends Component {
         return (
             <div className="filter-price">
                 <h4>Price</h4>
-                <label htmlFor="price-low">$</label>
+                <label htmlFor="price-low">$Min</label>
                 <input id="price-low" type="text" name="price-low" value={this.state.low} onChange={this.handleChange} />
                 <span> to </span>
-                <label htmlFor="price-high">$</label>
+                <label htmlFor="price-high">$Max</label>
                 <input id="price-high" type="text" name="price-high" value={this.state.high} onChange={this.handleChange} />
             </div>
         )

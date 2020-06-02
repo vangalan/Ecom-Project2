@@ -4,16 +4,6 @@ import ProductsInfo from './Products.json';
 import Product from '../../components/product/Product';
 import PriceFilter from '../../components/priceFilter/PriceFilter';
 
-//create a component for products *live in component folder
-//element for filter for, price.
-//Drop down brand filter.
-//double text price filter. 
-//Filter needs to update state.
-//handle filter change method.
-
-
-
-
 export default class ProductsPage extends Component {
   constructor(props) {
     super(props);

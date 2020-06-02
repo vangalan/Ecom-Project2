@@ -25,6 +25,7 @@ export default class HomePage extends Component {
         }
 
     }
+    //how things are transitioning in my slideshow.
     startPlayback() {
         setInterval(this.moveForward, this.slideInterval);
     }
